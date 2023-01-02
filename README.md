@@ -1,1 +1,1 @@
-# zScoreGenorator
+# zScoreGenerator
