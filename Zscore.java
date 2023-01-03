@@ -1,4 +1,5 @@
 import java.util.Random;
+import org.apache.commons.math3.special.Erf;
 
 public class Zscore {
 private final double max_value;
